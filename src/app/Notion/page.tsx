@@ -11,9 +11,6 @@ const app = async () => {
     block_id: process.env.PAGE_ID as string,
   });
 
-
-  
-
   const Page = await notion.pages.retrieve({
     page_id: "0ed4837a2b6e41c3b1a265f900912040",
   });
