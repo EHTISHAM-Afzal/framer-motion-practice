@@ -59,7 +59,7 @@ export default function Example() {
             Maecenas quis elementum nulla, in lacinia . Ut rutrum fringilla
             aliquet. Pellentesque auctor vehicula malesuada. Aliquam id feugiat
             sem, sit amet tempor nulla. Quisque fermentum felis faucibus, vehicula
-            metus ac, interdum nibh. Curabitur vitae convallis ligula. Integer ac
+            metus ac, interdum nibh. vitae convallis ligula. Integer ac
             enim vel felis pharetra laoreet. Interdum et malesuada fames ac ante
             ipsum primis in faucibus. Pellentesque hendrerit ac augue quis
             pretium. 
