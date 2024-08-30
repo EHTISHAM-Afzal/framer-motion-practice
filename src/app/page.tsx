@@ -42,7 +42,7 @@ export default function Home() {
           priority
         />
       </div>
-      <Button>Jus Button</Button>
+      <Button>Just Button</Button>
 
       {/* <motion.div
         animate={{
@@ -67,6 +67,7 @@ export default function Home() {
       <TextEffect per="char" preset="fade">
         Animate your ideas with motion-primitives
       </TextEffect>
+  
 
       <div className="flex h-[1000px] items-end justify-center px-4 pb-24">
         <InView
