@@ -98,7 +98,7 @@ export default function Home() {
         <motion.li variants={item}>1</motion.li>
       </motion.ul>
 
-      {/* <ProseExample /> */}
+      <ProseExample />
     </main>
   );
 }
